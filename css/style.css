@@ -7353,8 +7353,8 @@ h1, h2, h3, h4, h5,
       margin-bottom: 20px; } }
   .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
     color: #fff;
-    border: 1px solid #167ce9;
-    background: #167ce9;
+    border: 1px solid #7c50b5;
+    background: #7c50b5;
     padding-top: .5rem;
     padding-bottom: .5rem;
     padding-left: 20px;
@@ -7368,12 +7368,12 @@ h1, h2, h3, h4, h5,
       display: inline-block;
       color: #fff; }
     .ftco-navbar-light .navbar-nav > .nav-item.cta > a:hover {
-      background: #167ce9;
-      border: 1px solid #167ce9; }
+      background: #7c50b5;
+      border: 1px solid #7c50b5; }
   .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored span {
-    border-color: #167ce9; }
+    border-color: #7c50b5; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #167ce9; }
+    color: #7c50b5; }
   .ftco-navbar-light .navbar-toggler {
     border: none;
     color: rgba(255, 255, 255, 0.5) !important;
