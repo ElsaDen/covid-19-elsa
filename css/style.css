@@ -9535,3 +9535,8 @@ textarea.form-control {
   text-decoration: none;
   cursor: pointer;
 }
+
+.bottonimg {
+  width: 200px;
+  length: 200px;
+}
