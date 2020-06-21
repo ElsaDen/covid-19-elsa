@@ -174,8 +174,11 @@ figure {
   margin: 0 0 1rem; }
 
 img {
-  vertical-align: center;
-  border-style: none; }
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+  width:100%;
+}
 
 svg:not(:root) {
   overflow: hidden; }
